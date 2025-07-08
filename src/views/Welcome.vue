@@ -60,7 +60,7 @@ const vips = [
           </div>
           <div class="col-lg-7">
             <div class="welcome-img-2 text-center relative">
-              <img class="wel-img-2 wow fadeInUp" data-wow-delay="300ms" src="/img/bg-img/hero-2.png" alt="" style="visibility: visible; animation-delay: 500ms; animation-name: fadeInUp;">
+              <img class="wel-img-2 wow fadeInUp" data-wow-delay="300ms" src="/img/bg-img/hero-3.png" alt="" style="visibility: visible; animation-delay: 500ms; animation-name: fadeInUp;">
               <div class="shape-box">
                 <img src="/img/bg-img/home-2/shape-5.png" alt="">
               </div>
@@ -93,7 +93,7 @@ const vips = [
               </div>
               <div class="care-card-img-content">
                 <div class="care-img">
-                  <img src="/img/bg-img/care-1.jpeg.jpg" alt="">
+                  <img src="/img/bg-img/care-1.jpg" alt="scratch拖拽编程课程">
                 </div>
 
                 <div class="care-content-text">
@@ -115,7 +115,7 @@ const vips = [
               </div>
               <div class="care-card-img-content">
                 <div class="care-img">
-                  <img src="/img/bg-img/care-2.jpeg.jpg" alt="">
+                  <img src="/img/bg-img/care-2.jpg" alt="">
                 </div>
 
                 <div class="care-content-text">
@@ -137,7 +137,7 @@ const vips = [
               </div>
               <div class="care-card-img-content">
                 <div class="care-img">
-                  <img src="/img/bg-img/care-3.jpeg.jpg" alt="">
+                  <img src="/img/bg-img/care-3.jpg" alt="">
                 </div>
 
                 <div class="care-content-text">
